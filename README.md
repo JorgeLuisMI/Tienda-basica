@@ -12,3 +12,4 @@ Este proyecto es una tienda en línea básica desarrollada con React y Next.js. 
 ---
 
 **Tecnologías:** React 19, Next.js 15, TypeScript 5, CSS Modules
+**API:** Fake Store API (https://fakestoreapi.com/)
